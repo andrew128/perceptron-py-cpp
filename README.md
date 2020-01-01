@@ -1,4 +1,6 @@
 # Perceptron in Python and C++
+This repo contains implementations of the Perceptron algorithm in C++ and Python.
+A blog post containing more information can be found [here](https://sudocat.blogspot.com/2019/12/perceptron-in-python-and-c.html).
 
 To build the Python binding of the C++ implementation, run this command.
 
